@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tesla-website-clone/static/css/main.e8ab7c58.css",
+    "main.js": "/tesla-website-clone/static/js/main.c821e9ff.js",
+    "static/media/Model-3-Main-Hero-Video-Desktop-NA.mp4": "/tesla-website-clone/static/media/Model-3-Main-Hero-Video-Desktop-NA.0a9454d59e4bc4672593.mp4",
+    "index.html": "/tesla-website-clone/index.html",
+    "static/media/Tesla.svg": "/tesla-website-clone/static/media/Tesla.f48e768ffc496673c0353c5f3e8e741e.svg",
+    "main.e8ab7c58.css.map": "/tesla-website-clone/static/css/main.e8ab7c58.css.map",
+    "main.c821e9ff.js.map": "/tesla-website-clone/static/js/main.c821e9ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ab7c58.css",
+    "static/js/main.c821e9ff.js"
+  ]
+}
